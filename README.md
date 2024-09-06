@@ -1,4 +1,4 @@
-git clone https://git.huconn.com/topst-project/webcam-face-recognition.git
+git clone https://git.huconn.com/topst-project/webcam_face-recognition.git
 
 git clone https://github.com/opencv/opencv.git
 
